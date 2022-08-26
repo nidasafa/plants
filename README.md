@@ -1,1 +1,3 @@
 # plants
+rose
+lotus
